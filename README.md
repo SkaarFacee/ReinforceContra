@@ -1,2 +1,2 @@
 # ReinforceBros
-Konami game by reinforcement learning
+Play contra with reinforcement learning!
